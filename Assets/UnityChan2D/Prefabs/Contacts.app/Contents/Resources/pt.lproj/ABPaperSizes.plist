@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ABPaperHeight</key>
+		<real>7.920000000000000e+02</real>
+		<key>ABPaperName</key>
+		<string>Carta EUA</string>
+		<key>ABPaperWidth</key>
+		<real>6.120000000000000e+02</real>
+		<key>ABUnits</key>
+		<real>0.000000000000000e+00</real>
+	</dict>
+	<dict>
+		<key>ABPaperHeight</key>
+		<real>1.008000000000000e+03</real>
+		<key>ABPaperName</key>
+		<string>Ofício</string>
+		<key>ABPaperWidth</key>
+		<real>6.120000000000000e+02</real>
+		<key>ABUnits</key>
+		<real>0.000000000000000e+00</real>
+	</dict>
+	<dict>
+		<key>ABPaperHeight</key>
+		<real>8.409600000000000e+02</real>
+		<key>ABPaperName</key>
+		<string>A4</string>
+		<key>ABPaperWidth</key>
+		<real>5.940000000000000e+02</real>
+		<key>ABUnits</key>
+		<real>0.000000000000000e+00</real>
+	</dict>
+	<dict>
+		<key>ABPaperHeight</key>
+		<real>7.084800000000000e+02</real>
+		<key>ABPaperName</key>
+		<string>B5</string>
+		<key>ABPaperWidth</key>
+		<real>4.982400000000000e+02</real>
+		<key>ABUnits</key>
+		<real>0.000000000000000e+00</real>
+	</dict>
+	<dict>
+		<key>ABPaperHeight</key>
+		<real>1.224000000000000e+03</real>
+		<key>ABPaperName</key>
+		<string>Tablóide</string>
+		<key>ABPaperWidth</key>
+		<real>7.920000000000000e+02</real>
+		<key>ABUnits</key>
+		<real>0.000000000000000e+00</real>
+	</dict>
+	<dict>
+		<key>ABPaperHeight</key>
+		<real>7.920000000000000e+02</real>
+		<key>ABPaperName</key>
+		<string>Envelope Longo</string>
+		<key>ABPaperWidth</key>
+		<real>6.120000000000000e+02</real>
+		<key>ABUnits</key>
+		<real>0.000000000000000e+00</real>
+	</dict>
+</array>
+</plist>

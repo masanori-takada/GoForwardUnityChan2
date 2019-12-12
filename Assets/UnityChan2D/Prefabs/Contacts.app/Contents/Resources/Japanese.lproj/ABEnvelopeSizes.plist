@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<!-- Japanese Envelope Sizes-->
+
+	<!-- Choukei -->
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>長形 1 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>142</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>332</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/長形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>長形 2 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>119</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>277</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/長形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>長形 3 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>120</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>235</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/長形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>長形 31 号（洋形 4 号 タテ）</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>105</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>235</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/長形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>長形 30 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>92</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>235</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/長形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>長形 40 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>90</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>225</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/長形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>長形 4 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>90</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>205</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/長形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	
+	<!-- Kakukei -->
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>角形 A3</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>440</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>320</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/角形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>角形 0 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>382</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>287</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/角形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>角形 1 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>382</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>270</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/角形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>角形 2 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>332</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>240</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/角形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>角形 20 号（国際 A4）</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>324</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>229</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/角形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>角形 3 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>277</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>216</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/角形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>角形 4 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>267</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>197</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/角形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>角形 5 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>240</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>190</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/角形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>角形 6 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>229</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>162</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/角形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>角形 7 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>205</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>142</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/角形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>角形 8 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>197</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>119</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/角形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+
+	<!-- Youkei -->
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>フールス 10 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>120</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>235</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/洋形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>洋形 0 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>136</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>197</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/洋形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>洋形 1 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>120</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>176</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/洋形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>洋形 1 号 小（洋形東京 3 号）</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>118</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>173</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/洋形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>洋形 2 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>114</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>162</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/洋形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>洋形 3 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>98</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>148</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/洋形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>洋形 4 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>105</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>235</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/洋形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>洋形 5 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>95</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>217</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/洋形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>洋形 6 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>98</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>190</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/洋形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>洋形 7 号</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>92</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>165</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>日本の封筒/洋形</string>
+		<key>ABPrintReturnAddress</key>
+        		<false/>
+	</dict>
+
+	<!-- ISO Sizes -->
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>DL</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>110</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>220</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>国際規格の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ISO C7</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>81</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>114</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>国際規格の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ISO C7/6</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>81</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>162</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>国際規格の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ISO C6</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>114</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>162</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>国際規格の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ISO C5</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>169</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>229</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>国際規格の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ISO C4</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>229</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>324</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>国際規格の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ISO C3</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>324</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>458</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>国際規格の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ISO C2</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>458</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>648</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>国際規格の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ISO C1</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>648</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>917</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>国際規格の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ISO C0</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>917</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>1297</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>国際規格の封筒</string>
+	</dict>
+
+	<!-- Common North American Formats -->
+
+	<!-- Baronial -->
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Baronial 2</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.1875</real>
+		<key>ABEnvelopeWidth</key>
+		<real>4.25</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Baronial 4</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.625</real>
+		<key>ABEnvelopeWidth</key>
+		<real>4.625</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Baronial 5</string>
+		<key>ABEnvelopeHeight</key>
+		<real>4.125</real>
+		<key>ABEnvelopeWidth</key>
+		<real>5.125</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Baronial 5 1/4</string>
+		<key>ABEnvelopeHeight</key>
+		<real>4.25</real>
+		<key>ABEnvelopeWidth</key>
+		<real>5.25</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Baronial 5 1/2</string>
+		<key>ABEnvelopeHeight</key>
+		<real>4.375</real>
+		<key>ABEnvelopeWidth</key>
+		<real>5.625</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Baronial 6</string>
+		<key>ABEnvelopeHeight</key>
+		<real>5</real>
+		<key>ABEnvelopeWidth</key>
+		<real>6.25</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+
+	<!-- Commercial -->
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Commercial 5</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.0625</real>
+		<key>ABEnvelopeWidth</key>
+		<real>5.5</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Commercial 6</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.375</real>
+		<key>ABEnvelopeWidth</key>
+		<real>6</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Commercial 6 1/4</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.5</real>
+		<key>ABEnvelopeWidth</key>
+		<real>6</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Commercial 6 1/2</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.562</real>
+		<key>ABEnvelopeWidth</key>
+		<real>6.5</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Commercial 6 3/4</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.625</real>
+		<key>ABEnvelopeWidth</key>
+		<real>6.5</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+
+	<!-- Official -->
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Official 7</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.75</real>
+		<key>ABEnvelopeWidth</key>
+		<real>6.75</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Official 7 1/2</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.75</real>
+		<key>ABEnvelopeWidth</key>
+		<real>7.625</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Official 7 3/4 (Monarch)</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.875</real>
+		<key>ABEnvelopeWidth</key>
+		<real>7.625</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Official Data Card</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.5</real>
+		<key>ABEnvelopeWidth</key>
+		<real>7.625</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Official 8 5/8 (Check)</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.625</real>
+		<key>ABEnvelopeWidth</key>
+		<real>8.625</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Official 9</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.875</real>
+		<key>ABEnvelopeWidth</key>
+		<real>8.875</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Official 10</string>
+		<key>ABEnvelopeHeight</key>
+		<real>4.125</real>
+		<key>ABEnvelopeWidth</key>
+		<real>9.5</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Official 10 1/2</string>
+		<key>ABEnvelopeHeight</key>
+		<real>4.5</real>
+		<key>ABEnvelopeWidth</key>
+		<real>9.5</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Official 11</string>
+		<key>ABEnvelopeHeight</key>
+		<real>4.5</real>
+		<key>ABEnvelopeWidth</key>
+		<real>10.375</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Official 12</string>
+		<key>ABEnvelopeHeight</key>
+		<real>4.75</real>
+		<key>ABEnvelopeWidth</key>
+		<real>11</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Official 14</string>
+		<key>ABEnvelopeHeight</key>
+		<real>5</real>
+		<key>ABEnvelopeWidth</key>
+		<real>11.5</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+
+	<!-- Remittance -->
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Remittance 6 1/4</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.5</real>
+		<key>ABEnvelopeWidth</key>
+		<real>6</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Remittance 6 1/2</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.5</real>
+		<key>ABEnvelopeWidth</key>
+		<real>6.25</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Remittance 6 3/4</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.625</real>
+		<key>ABEnvelopeWidth</key>
+		<real>6.5</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>Remittance 9</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.875</real>
+		<key>ABEnvelopeWidth</key>
+		<real>8.875</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>北米の封筒</string>
+	</dict>
+</array>
+</plist>

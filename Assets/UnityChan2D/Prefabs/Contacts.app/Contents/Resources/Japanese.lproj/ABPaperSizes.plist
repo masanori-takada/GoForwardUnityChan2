@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ABPaperName</key>
+		<string>レター</string>
+
+		<key>ABUnits</key>
+		<real>0</real>
+
+		<key>ABPaperWidth</key>
+		<real>612.0</real>
+		<key>ABPaperHeight</key>
+		<real>792.0</real>
+	</dict>
+	<dict>
+		<key>ABPaperName</key>
+		<string>リーガル</string>
+
+		<key>ABUnits</key>
+		<real>0</real>
+
+		<key>ABPaperWidth</key>
+		<real>612.0</real>
+		<key>ABPaperHeight</key>
+		<real>1008.0</real>
+	</dict>
+	<dict>
+		<key>ABPaperName</key>
+		<string>A4</string>
+
+		<key>ABUnits</key>
+		<real>0</real>
+
+		<key>ABPaperWidth</key>
+		<real>594.0</real>
+		<key>ABPaperHeight</key>
+		<real>840.96</real>
+	</dict>
+	<dict>
+		<key>ABPaperName</key>
+		<string>B5 (JIS)</string>
+
+		<key>ABUnits</key>
+		<real>0</real>
+
+		<key>ABPaperWidth</key>
+		<real>515.91</real>
+		<key>ABPaperHeight</key>
+		<real>728.79</real>
+	</dict>
+	<dict>
+		<key>ABPaperName</key>
+		<string>タブロイド</string>
+
+		<key>ABUnits</key>
+		<real>0</real>
+
+		<key>ABPaperWidth</key>
+		<real>792.0</real>
+		<key>ABPaperHeight</key>
+		<real>1224.0</real>
+	</dict>
+    <dict>
+		<key>ABPaperName</key>
+		<string>DL 封筒</string>
+
+		<key>ABUnits</key>
+		<real>0</real>
+
+		<key>ABPaperWidth</key>
+		<real>612.0</real>
+		<key>ABPaperHeight</key>
+		<real>792.0</real>
+	</dict>
+
+</array>
+</plist>

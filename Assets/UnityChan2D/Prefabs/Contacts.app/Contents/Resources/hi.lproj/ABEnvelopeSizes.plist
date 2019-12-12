@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<!-- ISO Sizes -->
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>DL</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>110</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>220</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>अंतर्राष्ट्रीय लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ISO C7</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>81</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>114</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>अंतर्राष्ट्रीय लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ISO C7/6</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>81</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>162</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>अंतर्राष्ट्रीय लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ISO C6</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>114</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>162</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>अंतर्राष्ट्रीय लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ISO C5</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>169</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>229</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>अंतर्राष्ट्रीय लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ISO C4</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>229</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>324</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>अंतर्राष्ट्रीय लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ISO C3</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>324</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>458</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>अंतर्राष्ट्रीय लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ISO C2</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>458</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>648</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>अंतर्राष्ट्रीय लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ISO C1</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>648</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>917</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>अंतर्राष्ट्रीय लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ISO C0</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>917</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>1297</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>अंतर्राष्ट्रीय लिफ़ाफ़े</string>
+	</dict>
+
+	<!-- Common North American Formats -->
+
+	<!-- Baronial -->
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>बैरोनियल २</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.1875</real>
+		<key>ABEnvelopeWidth</key>
+		<real>4.25</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>बैरोनियल ४</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.625</real>
+		<key>ABEnvelopeWidth</key>
+		<real>4.625</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>बैरोनियल ५</string>
+		<key>ABEnvelopeHeight</key>
+		<real>4.125</real>
+		<key>ABEnvelopeWidth</key>
+		<real>5.125</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>बैरोनियल ५ १/४</string>
+		<key>ABEnvelopeHeight</key>
+		<real>4.25</real>
+		<key>ABEnvelopeWidth</key>
+		<real>5.25</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>बैरोनियल ५ १/२</string>
+		<key>ABEnvelopeHeight</key>
+		<real>4.375</real>
+		<key>ABEnvelopeWidth</key>
+		<real>5.625</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>बैरोनियल ६</string>
+		<key>ABEnvelopeHeight</key>
+		<real>5</real>
+		<key>ABEnvelopeWidth</key>
+		<real>6.25</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+
+	<!-- Commercial -->
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>कमर्शियल ५</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.0625</real>
+		<key>ABEnvelopeWidth</key>
+		<real>5.5</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>कमर्शियल ६</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.375</real>
+		<key>ABEnvelopeWidth</key>
+		<real>6</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>कमर्शियल ६ १/४</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.5</real>
+		<key>ABEnvelopeWidth</key>
+		<real>6</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>कमर्शियल ६ १/२</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.562</real>
+		<key>ABEnvelopeWidth</key>
+		<real>6.5</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>कमर्शियल ६ ३/४</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.625</real>
+		<key>ABEnvelopeWidth</key>
+		<real>6.5</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+
+	<!-- Official -->
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ऑफ़िशियल ७</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.75</real>
+		<key>ABEnvelopeWidth</key>
+		<real>6.75</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ऑफ़िशियल ७ १/२</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.75</real>
+		<key>ABEnvelopeWidth</key>
+		<real>7.625</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ऑफ़िशियल ७ ३/४ (मोनार्क)</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.875</real>
+		<key>ABEnvelopeWidth</key>
+		<real>7.625</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ऑफ़िशियल डेटा कार्ड</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.5</real>
+		<key>ABEnvelopeWidth</key>
+		<real>7.625</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ऑफ़िशियल ८ ५/८ (चेक)</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.625</real>
+		<key>ABEnvelopeWidth</key>
+		<real>8.625</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ऑफ़िशियल ९</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.875</real>
+		<key>ABEnvelopeWidth</key>
+		<real>8.875</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ऑफ़िशियल १०</string>
+		<key>ABEnvelopeHeight</key>
+		<real>4.125</real>
+		<key>ABEnvelopeWidth</key>
+		<real>9.5</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ऑफ़िशियल १० १/२</string>
+		<key>ABEnvelopeHeight</key>
+		<real>4.5</real>
+		<key>ABEnvelopeWidth</key>
+		<real>9.5</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ऑफ़िशियल ११</string>
+		<key>ABEnvelopeHeight</key>
+		<real>4.5</real>
+		<key>ABEnvelopeWidth</key>
+		<real>10.375</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ऑफ़िशियल १२</string>
+		<key>ABEnvelopeHeight</key>
+		<real>4.75</real>
+		<key>ABEnvelopeWidth</key>
+		<real>11</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>ऑफ़िशियल १४</string>
+		<key>ABEnvelopeHeight</key>
+		<real>5</real>
+		<key>ABEnvelopeWidth</key>
+		<real>11.5</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+
+	<!-- Remittance -->
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>रेमिटेंस ६ १/४</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.5</real>
+		<key>ABEnvelopeWidth</key>
+		<real>6</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>रेमिटेंस ६ १/२</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.5</real>
+		<key>ABEnvelopeWidth</key>
+		<real>6.25</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>रेमिटेंस ६ ३/४</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.625</real>
+		<key>ABEnvelopeWidth</key>
+		<real>6.5</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>रेमिटेंस ९</string>
+		<key>ABEnvelopeHeight</key>
+		<real>3.875</real>
+		<key>ABEnvelopeWidth</key>
+		<real>8.875</real>
+		<key>ABUnits</key>
+		<real>2.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>उत्तरी अमेरिकी लिफ़ाफ़े</string>
+	</dict>
+
+	
+	<!-- Japanese Envelope Sizes-->
+
+	<!-- Choukei -->
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>चोकेई १</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>142</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>332</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/चोकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>चोकेई २</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>119</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>277</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/चोकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>चोकेई ३</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>120</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>235</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/चोकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>चोकेई ३१</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>105</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>235</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/चोकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>चोकेई ३०</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>92</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>235</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/चोकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>चोकेई ४०</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>90</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>225</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/चोकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>चोकेई ४</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>90</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>205</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/चोकेई</string>
+	</dict>
+	
+	<!-- Kakukei -->
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>काकुकेई A3</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>320</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>440</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/काकुकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>काकुकेई ०</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>287</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>382</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/काकुकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>काकुकेई १</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>270</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>382</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/काकुकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>काकुकेई २</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>240</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>332</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/काकुकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>काकुकेई कोकुसाई A4</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>229</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>324</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/काकुकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>काकुकेई ३</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>216</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>277</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/काकुकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>काकुकेई ४</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>197</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>267</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/काकुकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>काकुकेई ५</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>190</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>240</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/काकुकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>काकुकेई ६</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>162</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>229</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/काकुकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>काकुकेई ७</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>142</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>205</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/काकुकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>काकुकेई ८</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>119</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>197</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/काकुकेई</string>
+	</dict>
+
+	<!-- Youkei -->
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>फ़ुरुसू १०</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>235</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>120</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/यूकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>यूकेई ०</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>197</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>136</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/यूकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>यूकेई १</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>176</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>120</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/यूकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>यूकेई १ छोटा</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>173</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>118</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/यूकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>यूकेई २</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>162</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>114</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/यूकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>यूकेई ३</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>148</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>98</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/यूकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>यूकेई ४</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>235</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>105</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/यूकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>यूकेई ५</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>217</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>95</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/यूकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>यूकेई ६</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>190</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>98</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/यूकेई</string>
+	</dict>
+	<dict>
+		<key>ABEnvelopeName</key>
+		<string>यूकेई ७</string>
+		<key>ABEnvelopeHeight</key>
+		<integer>165</integer>
+		<key>ABEnvelopeWidth</key>
+		<integer>92</integer>
+		<key>ABUnits</key>
+		<real>1.0</real>
+		<key>ABEnvelopeGrouping</key>
+		<string>जापानी लिफ़ाफ़े/यूकेई</string>
+	</dict>
+</array>
+</plist>
